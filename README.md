@@ -1,2 +1,2 @@
 # AutomacaoAeC
- Desafio AeC Automação
+Automação funcional em Selenium
